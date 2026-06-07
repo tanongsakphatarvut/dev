@@ -1,12 +1,12 @@
-// โค้ดเสกเครดิตผู้พัฒนาลงหน้าเว็บคลังสื่อ
+// โค้ดเสกเครดิตผู้พัฒนาลงหน้าเว็บคลังสื่อ (ปรับลดช่องว่างแบบแนบสนิท)
 document.addEventListener("DOMContentLoaded", function() {
     var creditHtml = `
-    <div class="container text-center mt-0 pb-3 pt-1">
+    <div class="text-center mt-1">
         <p class="mb-0 small fw-bold footer-text" style="color: #6c757d;">
             <i class="fa-solid fa-code text-primary me-1"></i> Developed with <i class="fa-solid fa-heart text-danger mx-1" style="animation: heartbeat 1.5s infinite;"></i> by 
             <span class="text-dark">ครูทนงศักดิ์ เพชรอาวุธ</span> <span class="mx-1 text-muted">x</span> <span class="text-primary">หมอจีPro (AI)</span>
         </p>
-        <p class="small text-muted mt-1 mb-0" style="font-size: 0.75rem;">
+        <p class="small text-muted mt-0 mb-0" style="font-size: 0.75rem;">
             ระบบคลังสื่อการสอนเพื่อการศึกษา (Open Source for Education)
         </p>
     </div>
