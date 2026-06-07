@@ -1,7 +1,7 @@
 // โค้ดเสกเครดิตผู้พัฒนาลงหน้าเว็บคลังสื่อ (บังคับดึงชิดไอคอน)
 document.addEventListener("DOMContentLoaded", function() {
     var creditHtml = `
-    <div class="text-center" style="margin-top: -5px;">
+    <div class="text-center" style="margin-top: -8px;">
         <p class="mb-0 small fw-bold footer-text" style="color: #6c757d;">
             <i class="fa-solid fa-code text-primary me-1"></i> Developed with <i class="fa-solid fa-heart text-danger mx-1" style="animation: heartbeat 1.5s infinite;"></i> by 
             <span class="text-dark">ครูทนงศักดิ์ เพชรอาวุธ</span> <span class="mx-1 text-muted">x</span> <span class="text-primary">หมอจีPro (AI)</span>
