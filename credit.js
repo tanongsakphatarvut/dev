@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <div class="text-center" style="margin-top: -10px;">
         <p class="mb-0 small fw-bold footer-text" style="color: #6c757d;">
             <i class="fa-solid fa-code text-primary me-1"></i> Developed with <i class="fa-solid fa-heart text-danger mx-1" style="animation: heartbeat 1.5s infinite;"></i> by 
-            <span class="text-dark">ครูทนงศักดิ์ เพชรอาวุธ333</span> <span class="mx-1 text-muted">x</span> <span class="text-primary">หมอจีPro (AI)</span>
+            <span class="text-dark">ครูทนงศักดิ์ เพชรอาวุธ333</span> <span class="mx-1 text-muted">x</span> <span class="text-primary">4444หมอจีPro (AI)</span>
         </p>
         <p class="small text-muted mt-0 mb-0" style="font-size: 0.75rem;">
             ระบบคลังสื่อการสอนเพื่อการศึกษา (Open Source for Education)
